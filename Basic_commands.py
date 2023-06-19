@@ -1,4 +1,4 @@
-3e
+
 from djitellopy import Tello # ensure library is installed from settings prior to testing
 import time
 
